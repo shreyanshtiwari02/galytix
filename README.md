@@ -3,7 +3,7 @@ creating a .net app for post requests
 
 did the setup of the dotnet app in my vscode
 
-created a controller for receiving post requests at the url route "http://localhost:9091/api/server/postexample"
+created a controller for receiving post requests at the url route "http://localhost:9091/api/server/gwp/avg"
 
 the json object sent was
 {

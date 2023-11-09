@@ -33,7 +33,7 @@ namespace Galytix.WebApi.Controllers
 
         [AllowAnonymous]
         [HttpPost]
-        [Route("postexample")]
+        [Route("gwp/avg")]
         public async Task<IActionResult> PostExample([FromBody] YourRequestModel requestModel)
         {
             var response = new
